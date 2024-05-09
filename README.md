@@ -11,9 +11,8 @@
 
 2. Install pytorch
 
-	pip install transformers
-
-
+        pip install transformers
+	
 ## Training
 
 When using Terminal, directly execute the code below after setting the path
