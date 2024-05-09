@@ -11,7 +11,7 @@
 
 2. Install pytorch
 
-   pip install transformers
+	pip install transformers
 
 
 ## Training
